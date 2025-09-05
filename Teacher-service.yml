@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/teacherdb
+    username: root
+    password: Dsai@9398
+server:
+  port: 8083
